@@ -1,2 +1,2 @@
 # pandas-challenge
-Analysis made with Pandas DataFrames Utilies to review and process school and students data
+Analysis made with Pandas DataFrame Utilies to review and process school and students data
